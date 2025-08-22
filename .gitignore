@@ -1,0 +1,12 @@
+# Media nie w VCS
+uploads/
+cache/
+upgrade/
+# buildy frontu
+node_modules/
+dist/
+*.map
+# śmieci systemowe
+.DS_Store
+*.log
+*.sql

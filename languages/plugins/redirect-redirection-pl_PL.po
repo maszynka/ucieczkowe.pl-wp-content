@@ -1,0 +1,850 @@
+# Translation of Plugins - Redirection - Stable (latest release) in Polish
+# This file is distributed under the same license as the Plugins - Redirection - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-04-22 06:44:33+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: pl\n"
+"Project-Id-Version: Plugins - Redirection - Stable (latest release)\n"
+
+#: redirect-redirection.php:217
+msgid "Random similar post"
+msgstr "Losowy podobny wpis"
+
+#: redirect-redirection.php:161
+msgid "Are 404s"
+msgstr "Są 404"
+
+#: includes/settings/irrp-settings.php:239
+msgid "Edit this redirect"
+msgstr "Edytuj przekierowanie"
+
+#: includes/settings/irrp-settings.php:238
+msgid "Save this redirect"
+msgstr "Zapisz przekierowanie"
+
+#: includes/settings/irrp-settings.php:237
+msgid "Edit this redirection rule"
+msgstr "Edytuj regułę przekierowania"
+
+#: includes/settings/irrp-settings.php:236
+msgid "Save this redirection rule"
+msgstr "Zapisze regułę przekierowania"
+
+#: includes/settings/irrp-settings.php:233
+msgid "Add this redirect"
+msgstr "Dodaj przekierowanie"
+
+#: includes/settings/irrp-settings.php:240
+msgid "Add this redirection rule"
+msgstr "Dodaj regułę przekierowania"
+
+#: includes/settings/irrp-settings.php:135
+msgid ""
+"This action will delete the plugin data and tables from the database and deactivate the plugin. \n"
+"\n"
+" Are you sure you want to do this?\n"
+msgstr ""
+"Ta akcja spowoduje usunięcie danych wtyczki, a także tabel z bazy danych, jak również wyłączy wtyczkę.\n"
+"\n"
+"Czy na pewno chcesz wykonać tą akcję?\n"
+
+#: includes/settings/irrp-settings.php:134
+msgid "Could not find the 'data-selected-dropdown-item-id' attribute in a custom dropdown"
+msgstr "Nie udało się odnaleźć atrybutu 'data-selected-dropdown-item-id' w niestandardowym rozwijanym menu"
+
+#: includes/settings/html-settings.php:41
+msgid "This will establish connection to the chat servers"
+msgstr "Zostanie nawiązane połączenie z serwerami czatu"
+
+#: includes/settings/html-settings.php:39
+msgid "Connect with support (click to load)"
+msgstr "Połączenie ze wsparciem technicznym (kliknij aby rozpocząć)"
+
+#: redirect-redirection.php:221
+msgid "Explain those options"
+msgstr "Wyjaśnij opcje"
+
+#: redirect-redirection.php:201
+msgid "URLs with new string"
+msgstr "Adresy URL z nowym ciągiem znaków"
+
+#: redirect-redirection.php:205
+msgid "URLs with removed string"
+msgstr "Adresy URL z usuniętym ciągiem znaków"
+
+#: redirect-redirection.php:190
+msgid "Author and name"
+msgstr "Autor i nazwa"
+
+#: redirect-redirection.php:186
+msgid "Category and name"
+msgstr "Kategoria i nazwa"
+
+#: includes/settings/layouts/specific-url-redirections/header.php:28
+msgid "…to a %1$sspecific URL:​%2$s"
+msgstr "…do %1$s konkretnego adresu URL:​%2$s"
+
+#: includes/settings/layouts/specific-url-redirections/header.php:17
+msgid "Enter the URL you want to redirect"
+msgstr "Wprowadź adres URL przekierowania"
+
+#: includes/settings/layouts/specific-url-redirections/header.php:12
+msgid "Redirect from the %1$sspecific URL%2$s…"
+msgstr "Przekieruj z %1$s konkretnego adresu URL%2$s…"
+
+#: includes/settings/irrp-settings.php:234
+#: includes/settings/layouts/specific-url-redirections/header.php:7
+msgid "Add a redirect"
+msgstr "Dodaj przekierowanie"
+
+#: includes/settings/layouts/specific-url-redirections.php:35
+msgid "(specific URL redirects only)"
+msgstr "(przekierowania tylko na konkretny adres URL)"
+
+#: includes/settings/layouts/specific-url-redirections.php:34
+msgid "Your redirects"
+msgstr "Twoje przekierowania"
+
+#: includes/settings/layouts/redirection-rules/rules-explanation.php:88
+msgid "New permalink structure:"
+msgstr "Nowa struktura linków bezpośrednich:"
+
+#: includes/settings/layouts/redirection-rules/rules-explanation.php:68
+msgid "Redirects to URLs which are identical except they don’t contain the string you entered on the left at all (“&ZeroWidthSpace;<strong>remove</strong>”)."
+msgstr "Przekierowania do adresów URL, które są identyczne, z tą różnicą, że nie zawierają ciągu znaków wpisanego po lewej stronie (“&ZeroWidthSpace;<strong>usuń</strong>”)."
+
+#: includes/settings/layouts/redirection-rules/rules-explanation.php:64
+msgid "URLs with removed string:"
+msgstr "Adresy URL z usuniętym ciągiem znaków:"
+
+#: includes/settings/layouts/redirection-rules/rules-explanation.php:45
+msgid "replace"
+msgstr "zastąp"
+
+#: includes/settings/layouts/redirection-rules/rules-explanation.php:35
+msgid "URLs with new string:"
+msgstr "Adresy URL z nowym ciągiem znaków:"
+
+#: includes/settings/layouts/redirection-rules/rules-explanation.php:27
+msgid "Redirects all URLs to the stated URL."
+msgstr "Przekierowuje wszystkie adresy URL do podanego adresu URL."
+
+#: includes/settings/layouts/redirection-rules/header.php:100
+msgid "Add this redirection rule!"
+msgstr "Dodaj regułę przekierowania!"
+
+#: includes/settings/layouts/redirection-rules/header.php:91
+msgid "+ Add another criteria"
+msgstr "+ Dodaj kolejne kryteria"
+
+#: includes/settings/irrp-settings.php:133
+#: includes/settings/layouts/redirection-rules/header.php:30
+#: includes/settings/layouts/redirection-rules/header.php:80
+msgid "Enter the string"
+msgstr "Wprowadź ciąg znaków"
+
+#: includes/settings/layouts/redirection-rules/header.php:13
+msgid "Redirect %1$sall%2$s URLs which:"
+msgstr "Przekieruj %1$swszystkie%2$s adresy URL, które:"
+
+#: includes/settings/layouts/specific-url-redirections/header.php:40
+msgid "Add this redirect!"
+msgstr "Dodaj przekierowanie!"
+
+#: includes/settings/irrp-settings.php:235
+#: includes/settings/layouts/redirection-rules/header.php:7
+msgid "Add a redirection rule"
+msgstr "Dodaj regułę przekierowania"
+
+#: includes/settings/layouts/redirection-rules.php:33
+msgid "Your redirection rules"
+msgstr "Twoje reguły przekierowań"
+
+#: includes/settings/layouts/common/single-redirection.php:128
+msgid "close row"
+msgstr "zamknij wiersz"
+
+#: includes/settings/layouts/common/single-redirection.php:123
+msgid "edit row"
+msgstr "edytuj wiersz"
+
+#: includes/settings/layouts/common/single-redirection.php:75
+msgid "To a specific URL"
+msgstr "Do konkretnego adresu URL"
+
+#: includes/settings/layouts/common/single-redirection.php:38
+msgid "Redirect from"
+msgstr "Przekieruj z"
+
+#: includes/settings/layouts/common/header-settings-paragraph.php:15
+msgid "…with the "
+msgstr "…z "
+
+#: includes/settings/layouts/common/delete-confirmation-prompt.php:15
+msgid "Cancel"
+msgstr "Anuluj"
+
+#: includes/settings/layouts/common/delete-confirmation-prompt.php:14
+msgid "Yes, delete"
+msgstr "Tak, usuń"
+
+#: includes/settings/layouts/common/delete-confirmation-prompt.php:12
+msgid "Delete redirect?"
+msgstr "Usunąć przekierowanie?"
+
+#: includes/settings/layouts/common/delete-confirmation-prompt.php:9
+msgid "trash icon"
+msgstr "ikona kosza"
+
+#: includes/settings/layouts/common/default-settings-modal.php:600
+msgid "You can change your default settings on the %1$sOptions tab​%2$s​"
+msgstr "Możesz zmienić domyślne ustawienia w karcie %1$sOpcje%2$s"
+
+#: includes/settings/layouts/common/default-settings-modal.php:522
+msgid "Server:"
+msgstr "Serwer:"
+
+#: includes/settings/layouts/common/default-settings-modal.php:239
+msgid "doesn't have"
+msgstr "nie posiada"
+
+#: includes/settings/layouts/common/default-settings-modal.php:220
+msgid "User who clicks on the link is​"
+msgstr "Użytkownik, który kliknie w link, jest"
+
+#: includes/settings/layouts/common/default-settings-modal.php:212
+msgid "not logged in"
+msgstr "niezalogowany"
+
+#: includes/settings/layouts/common/default-settings-modal.php:158
+msgid "Inclusion & exclusion rules​"
+msgstr "Zasady włączania i wykluczania​"
+
+#: includes/settings/layouts/common/default-settings-modal.php:137
+msgid "308 – Permanent Redirect"
+msgstr "308 – Trwałe przekierowanie"
+
+#: includes/settings/layouts/common/default-settings-modal.php:133
+msgid "307 – Temporary Redirect"
+msgstr "307 – Tymczasowe przekierowanie"
+
+#: includes/settings/layouts/common/default-settings-modal.php:129
+msgid "304 – Not Modified"
+msgstr "304 – Nie zmieniono"
+
+#: includes/settings/layouts/common/default-settings-modal.php:125
+msgid "303 – See Other"
+msgstr "303 – Zobacz inne"
+
+#: includes/settings/layouts/common/default-settings-modal.php:121
+msgid "302 – Found"
+msgstr "302 – Znaleziono"
+
+#: includes/settings/layouts/common/default-settings-modal.php:117
+msgid "301 - Moved Permanently"
+msgstr "301 – Trwale przeniesiony"
+
+#: includes/settings/layouts/common/default-settings-modal.php:14
+msgid "cogs icon"
+msgstr "ikona trybików"
+
+#: includes/settings/layouts/common/custom-filter.php:45
+msgid "search button's icon"
+msgstr "ikona wyszukiwania"
+
+#: includes/settings/layouts/common/custom-filter.php:43
+msgid "Search"
+msgstr "Szukaj"
+
+#: includes/settings/layouts/common/custom-filter.php:39
+msgid "Export list"
+msgstr "Wyeksportuj listę"
+
+#: includes/settings/layouts/common/custom-filter.php:35
+msgid "Import list"
+msgstr "Zaimportuj listę"
+
+#: includes/settings/layouts/common/custom-filter.php:21
+msgid "Delete"
+msgstr "Usuń"
+
+#: includes/settings/layouts/common/custom-filter.php:16
+msgid "Disable"
+msgstr "Wyłącz"
+
+#: includes/settings/layouts/common/custom-filter.php:8
+msgid "For all selected:"
+msgstr "Dla wszystkich wybranych:"
+
+#: includes/settings/layouts/common/custom-body-data.php:53
+msgid "(also from other pages)"
+msgstr "(także z innych stron)"
+
+#: includes/settings/layouts/common/custom-body-data.php:52
+msgid "Select all"
+msgstr "Zaznacz wszystko"
+
+#: includes/settings/layouts/common/custom-body-data.php:25
+#: includes/settings/layouts/common/single-redirection.php:101
+#: includes/settings/layouts/redirection-and-404-logs/data-table.php:14
+msgid "Type"
+msgstr "Rodzaj"
+
+#: includes/settings/html-settings.php:16
+msgid "Automatic Redirects"
+msgstr "Automatyczne przekierowania"
+
+#: includes/irrp-helper-ajax.php:754
+msgid "All %d redirects selected"
+msgstr "Wszystkie przekierowania (%d) zostały zaznaczone"
+
+#: includes/irrp-helper-ajax.php:758
+msgid "All %d redirects deselected"
+msgstr "Wszystkie przekierowania (%d) zostały odznaczone"
+
+#: includes/irrp-helper-ajax.php:710
+msgid "Showing search results"
+msgstr "Wyświetlanie wyników wyszukiwania"
+
+#: includes/settings/layouts/common/default-settings-modal.php:36
+#: includes/settings/layouts/common/default-settings-modal.php:47
+#: includes/settings/layouts/common/default-settings-modal.php:60
+#: includes/settings/layouts/common/default-settings-modal.php:71
+#: includes/settings/layouts/common/default-settings-modal.php:84
+#: includes/settings/layouts/common/default-settings-modal.php:93
+#: includes/settings/layouts/common/default-settings-modal.php:105
+#: includes/settings/layouts/common/default-settings-modal.php:144
+#: includes/settings/layouts/common/default-settings-modal.php:319
+#: includes/settings/layouts/common/default-settings-modal.php:325
+#: includes/settings/layouts/common/default-settings-modal.php:370
+#: includes/settings/layouts/common/default-settings-modal.php:376
+#: includes/settings/layouts/common/default-settings-modal.php:428
+#: includes/settings/layouts/common/default-settings-modal.php:434
+#: includes/settings/layouts/common/default-settings-modal.php:474
+#: includes/settings/layouts/common/default-settings-modal.php:483
+#: includes/settings/layouts/common/default-settings-modal.php:524
+#: includes/settings/layouts/common/default-settings-modal.php:533
+#: includes/settings/layouts/common/default-settings-modal.php:574
+#: includes/settings/layouts/common/default-settings-modal.php:583
+#: includes/settings/layouts/redirection-and-404-logs.php:27
+msgid "info icon"
+msgstr "ikona informacji"
+
+#: includes/settings/layouts/common/default-settings-modal.php:20
+msgid "Source URL"
+msgstr "Źródłowy adres URL"
+
+#: includes/settings/layouts/common/custom-body-data.php:13
+msgid "Status"
+msgstr "Status"
+
+#: includes/settings/html-settings.php:17
+msgid "Change URLs"
+msgstr "Zmień adresy URL"
+
+#: includes/settings/layouts/common/default-settings-modal.php:316
+#: includes/settings/layouts/common/default-settings-modal.php:367
+#: includes/settings/layouts/common/default-settings-modal.php:425
+msgid "Regex:"
+msgstr "Wyrażenie regularne (regex):"
+
+#: includes/settings/layouts/common/default-settings-modal.php:247
+msgid "User who clicks on the link"
+msgstr "Użytkownik, który kliknie w link"
+
+#: includes/settings/layouts/common/default-settings-modal.php:58
+msgid "Ignore lower/upper case​"
+msgstr "Ignoruj małe/duże litery"
+
+#: includes/settings/layouts/common/default-settings-modal.php:107
+#: includes/settings/layouts/common/default-settings-modal.php:146
+msgid "Click to see an explanation of HTTP codes"
+msgstr "Kliknij, aby zobaczyć wytłumaczenie kodów odpowiedzi HTTP"
+
+#: includes/settings/layouts/common/default-settings-modal.php:103
+msgid "Redirect HTTP code:​"
+msgstr "Kod przekierowania HTTP:​"
+
+#: includes/settings/layouts/common/default-settings-modal.php:292
+#: includes/settings/layouts/common/default-settings-modal.php:343
+#: includes/settings/layouts/common/default-settings-modal.php:395
+#: includes/settings/layouts/common/default-settings-modal.php:451
+#: includes/settings/layouts/common/default-settings-modal.php:501
+#: includes/settings/layouts/common/default-settings-modal.php:551
+msgid "matches"
+msgstr "pasuje"
+
+#: includes/settings/layouts/common/default-settings-modal.php:296
+#: includes/settings/layouts/common/default-settings-modal.php:347
+#: includes/settings/layouts/common/default-settings-modal.php:399
+#: includes/settings/layouts/common/default-settings-modal.php:455
+#: includes/settings/layouts/common/default-settings-modal.php:505
+#: includes/settings/layouts/common/default-settings-modal.php:555
+msgid "doesn't match"
+msgstr "nie pasuje"
+
+#: includes/settings/layouts/common/custom-body-data.php:19
+msgid "…to:"
+msgstr "…do:"
+
+#: includes/settings/layouts/common/custom-body-data.php:16
+msgid "Redirect from…"
+msgstr "Przekieruj z…"
+
+#: includes/settings/layouts/common/default-settings-modal.php:526
+#: includes/settings/layouts/common/default-settings-modal.php:535
+msgid "Here you can set the server name that is used to determine the match, in addition to the source URL​"
+msgstr "Oprócz źródłowego adresu URL, możesz ustawić tutaj także nazwę serwera, która będzie używana do określenia dopasowania"
+
+#: includes/settings/layouts/common/default-settings-modal.php:476
+#: includes/settings/layouts/common/default-settings-modal.php:485
+msgid "Here you can set the user’s IP address that is used to determine the match, in addition to the source URL​"
+msgstr "Oprócz źródłowego adresu URL, możesz ustawić tutaj także adres IP użytkownika, który będzie używany do określenia dopasowania"
+
+#: includes/settings/layouts/common/default-settings-modal.php:576
+#: includes/settings/layouts/common/default-settings-modal.php:585
+msgid "Here you can set the browser language that is used to determine the match, in addition to the source URL​"
+msgstr "Oprócz źródłowego adresu URL, możesz ustawić tutaj także język przeglądarki, który będzie używany do określenia dopasowania"
+
+#: includes/settings/layouts/common/default-settings-modal.php:430
+#: includes/settings/layouts/common/default-settings-modal.php:436
+msgid "Here you can set the cookie name and value in addition to the source URL to determine the match. If you want to apply RegEx, tick the checkbox."
+msgstr "Oprócz źródłowego adresu URL, możesz ustawić tutaj także nazwę i wartość ciasteczka, aby określić dopasowanie. Jeśli chcesz zastosować regex, zaznacz odpowiednie pole."
+
+#: includes/settings/layouts/common/default-settings-modal.php:312
+msgid "Referrer:"
+msgstr "Adres odsyłający:"
+
+#: includes/settings/layouts/common/default-settings-modal.php:304
+msgid "User’s referrer link​"
+msgstr "Link, z którego nastąpiło przekierowanie"
+
+#: includes/settings/layouts/common/default-settings-modal.php:69
+msgid "Pass on parameters​"
+msgstr "Przekaż parametry"
+
+#: includes/settings/layouts/common/default-settings-modal.php:73
+msgid "If checked parameters will be passed on, e.g. if you selected to redirect /whatever to /whatever-new, then when a user enters /whatever?param he will be redirected to /whatever-new?param."
+msgstr "Jeśli zaznaczono, parametry zostaną przekazane dalej, np. w przypadku gdy wybrano przekierowanie z /cokolwiek do /cokolwiek-nowe, wówczas gdy użytkownik wprowadzi /cokolwiek?parametr zostanie on przekierowany do /cokolwiek-nowe?parametr."
+
+#: includes/settings/layouts/common/default-settings-modal.php:62
+msgid "If checked the cases of your source URL will be ignored, e.g. if you entered /whatever as URL, /WhAteVER will also be redirected."
+msgstr "Jeśli zaznaczono, wielkość liter w źródłowym adresie URL zostanie zignorowana, np. jeśli wprowadzisz /cokolwiek jako adres URL, przekierowanie nastąpi także po wpisaniu /CoKoLwIeK."
+
+#: includes/settings/layouts/common/default-settings-modal.php:49
+msgid "If checked URLs with parameters will be redirected as well, e.g. if you selected /whatever to get redirected, then /whatever?param will be redirected too."
+msgstr "Jeśli zaznaczono, adresy URL zawierające parametry także będą przekierowywane, np. jeśli ustawiono przekierowanie dla adresów, w których ścieżce znajduje się /cokolwiek, wówczas po wpisaniu /cokolwiek?parametr również nastąpi przekierowanie."
+
+#: includes/settings/layouts/common/default-settings-modal.php:45
+msgid "Ignore parameters​"
+msgstr "Ignoruj parametry"
+
+#: includes/settings/layouts/common/default-settings-modal.php:38
+msgid "If checked, URLs with “/” at the end and those without it will be redirected."
+msgstr "Jeśli zaznaczono, zarówno adresy URL z ukośnikiem „/” na końcu, jak i bez niego zostaną przekierowane."
+
+#: includes/settings/layouts/common/default-settings-modal.php:34
+msgid "Ignore trailing slashes​"
+msgstr "Ignoruj ukośniki na końcu"
+
+#: includes/settings/layouts/common/single-redirection.php:93
+msgid "Date added"
+msgstr "Data dodania"
+
+#: includes/settings/irrp-settings.php:130
+#: includes/settings/layouts/common/custom-dropdown.php:21
+msgid "Select Option"
+msgstr "Wybierz opcję"
+
+#: includes/settings/layouts/common/custom-filter.php:11
+msgid "Enable"
+msgstr "Włącz"
+
+#: includes/settings/layouts/common/default-settings-modal.php:15
+msgid "Advanced options"
+msgstr "Opcje zaawansowane"
+
+#: includes/settings/layouts/common/default-settings-modal.php:472
+msgid "IP:"
+msgstr "IP:"
+
+#: includes/settings/layouts/common/default-settings-modal.php:572
+msgid "Language:"
+msgstr "Język:"
+
+#: includes/settings/layouts/redirection-rules/rules-explanation.php:123
+msgid "Close"
+msgstr "Zamknij"
+
+#: includes/settings/layouts/common/default-settings-modal.php:563
+msgid "Language"
+msgstr "Język"
+
+#: includes/settings/irrp-settings.php:132
+#: includes/settings/layouts/redirection-rules/header.php:60
+msgid "Enter the URL"
+msgstr "Wprowadź adres URL"
+
+#: redirect-redirection.php:178
+msgid "Month and name"
+msgstr "Miesiąc i nazwa"
+
+#: redirect-redirection.php:174
+msgid "Day and name"
+msgstr "Dzień i nazwa"
+
+#: redirect-redirection.php:182
+msgid "Post name"
+msgstr "Nazwa wpisu"
+
+#: includes/settings/layouts/common/default-settings-modal.php:513
+msgid "Server"
+msgstr "Serwer"
+
+#: includes/settings/layouts/specific-url-redirections/header.php:33
+msgid "Enter the URL you want to redirect to"
+msgstr "Wprowadź adres URL, na który ma być przekierowany"
+
+#: redirect-redirection.php:197
+msgid "A Specific URL"
+msgstr "Wybrany adres URL"
+
+#: includes/settings/irrp-settings.php:131 redirect-redirection.php:157
+#: redirect-redirection.php:213
+msgid "Regex matches"
+msgstr "Wyrażanie regularne"
+
+#: includes/settings/layouts/redirection-rules/rules-explanation.php:96
+msgid "Redirects to the new permalink structure of your choice."
+msgstr "Przekierowuje do wybranej nowej struktury odnośników bezpośrednich."
+
+#: includes/settings/layouts/change-urls.php:8
+msgid "This is currently in progress – stay tuned!"
+msgstr "Prace nad tą funkcją trwają – zostańcie z nami!"
+
+#: includes/settings/layouts/change-urls.php:7
+msgid "All the options on the other tabs didn't touch the source URL structures, but only applied redirects. On this tab you can pick options which will change the source URL structure too."
+msgstr "Opcje znajdujące się w pozostałych zakładkach nie dotyczyły struktur adresów URL, a jedynie stosowania przekierowań. W tej zakładce możesz wybrać opcje, które zmienią strukturę źródłowego adresu URL."
+
+#: includes/irrp-helper-ajax.php:665 includes/irrp-helper-ajax.php:993
+#: includes/irrp-helper-ajax.php:1033
+msgid "Showing page %d data."
+msgstr "Wyświetlanie danych ze strony %d."
+
+#: includes/settings/layouts/common/default-settings-modal.php:372
+#: includes/settings/layouts/common/default-settings-modal.php:378
+msgid "Here you can set the user’s browser agent in addition to the source URL to determine the match. It can use browser type, OS, (mobile) platform, etc. If you want to apply RegEx, tick the checkbox."
+msgstr "Oprócz źródłowego adresu URL, możesz tutaj ustawić także agenta użytkownika, aby określić dopasowanie. Może on korzystać z danych o typie przeglądarki, systemie operacyjnym, platformie (mobilnej) itp. Jeśli chcesz zastosować regex, zaznacz odpowiednie pole."
+
+#: includes/settings/layouts/common/default-settings-modal.php:463
+msgid "User’s IP"
+msgstr "Adres IP użytkownika"
+
+#: includes/settings/layouts/common/default-settings-modal.php:355
+msgid "User’s agent​"
+msgstr "Identyfikator programu"
+
+#: redirect-redirection.php:209
+msgid "New permalink structure"
+msgstr "Nowa struktura odnośnika bezpośredniego"
+
+#: includes/settings/layouts/common/single-redirection.php:118
+msgid "Actions"
+msgstr "Działania"
+
+#: includes/settings/html-settings.php:13
+msgid "Specific URL Redirections"
+msgstr "Przekierowania adresów URL"
+
+#: includes/settings/layouts/common/header-settings-paragraph.php:16
+msgid "default settings"
+msgstr "domyślnymi ustawieniami"
+
+#: includes/settings/layouts/automatic-redirects.php:24
+#: includes/settings/layouts/common/default-settings-modal.php:164
+#: includes/settings/layouts/common/single-redirection.php:17
+#: includes/settings/layouts/common/single-redirection.php:32
+#: includes/settings/layouts/redirection-and-404-logs.php:37
+msgid "On"
+msgstr "On"
+
+#: includes/settings/layouts/common/default-settings-modal.php:188
+msgid "are the case"
+msgstr "są spełnione"
+
+#: includes/settings/layouts/common/default-settings-modal.php:192
+msgid "are not the case"
+msgstr "nie są spełnione"
+
+#: includes/settings/layouts/common/custom-filter.php:26
+msgid "Go!"
+msgstr "Zastosuj!"
+
+#: redirect-redirection.php:133
+msgid "Start with"
+msgstr "Rozpoczynają się od"
+
+#: redirect-redirection.php:141
+msgid "Have permalink structure"
+msgstr "Posiadają strukturę odnośników bezpośrednich"
+
+#: includes/settings/layouts/common/header-settings-paragraph.php:27
+msgid "tailored settings"
+msgstr "dostosowanymi ustawieniami"
+
+#: includes/settings/html-settings.php:14
+#: includes/settings/layouts/redirection-and-404-logs/header.php:55
+msgid "Redirection Rules"
+msgstr "Reguły przekierowań"
+
+#: includes/settings/layouts/redirection-rules/rules-explanation.php:16
+msgid "Redirection to-rules explained​"
+msgstr "Wyjaśnienie reguł przekierowania"
+
+#: includes/settings/layouts/redirection-rules/rules-explanation.php:22
+msgid "A specific URL:"
+msgstr "Wybrany adres URL:"
+
+#: includes/settings/layouts/redirection-rules/rules-explanation.php:38
+#: includes/settings/layouts/redirection-rules/rules-explanation.php:65
+msgid "(Only shown if “Contain” is selected on the left)"
+msgstr "(Widoczne tylko, jeśli pole „Zawierają” zostało wybrane po lewej stronie)"
+
+#: includes/settings/layouts/redirection-rules/rules-explanation.php:73
+msgid "%1$sExample:%2$s You selected to redirect all URLs which contain the string “old-blog”, and the current url structure is %3$s. With this option your entered string will be removed so %4$s will redirect to %5$s"
+msgstr "%1$sPrzykład:%2$s Wybrano przekierowanie wszystkich adresów URL, które zawierają ciąg „old-blog”. Struktura obecnego adresu URL to %3$s. Dzięki tej opcji podany ciąg znaków zostanie usunięty, tzn. %4$s będzie przekierowywać do %5$s"
+
+#: includes/settings/layouts/redirection-rules/rules-explanation.php:51
+msgid "%1$sExample:%2$s You selected to redirect all URLs which contain the string “old-blog”. If you enter here “new-blog” then a redirect from %3$s to %4$s will be applied for all your pages/posts on the old URLs."
+msgstr "%1$sPrzykład:%2$s Wybrano przekierowanie wszystkich adresów URL, które zawierają ciąg „old-blog”. Jeśli wprowadzisz tu „new-blog”, wówczas przekierowanie z %3$s do %4$s zostanie zastosowane dla wszystkich stron/postów ze starym adresem URL."
+
+#: includes/settings/layouts/redirection-rules/rules-explanation.php:91
+msgid "(Only shown if “Have Permalink Structure” is selected on the left)"
+msgstr "(Widoczne tylko, jeśli pole „Posiadają strukturę linku bezpośredniego” zostało wybrane po lewej stronie)"
+
+#: includes/settings/layouts/redirection-rules/rules-explanation.php:107
+msgid "(Only shown if “Regex matches” is selected on the left)"
+msgstr "(Widoczne tylko, jeśli pole „Wyrażenie regularne” zostało wybrane po lewej stronie)"
+
+#: includes/settings/layouts/redirection-rules/rules-explanation.php:104
+msgid "Regex matches:"
+msgstr "Wyrażenie regularne:"
+
+#: includes/settings/layouts/redirection-rules/rules-explanation.php:112
+msgid "Redirects to the new Regex pattern you entered on the right."
+msgstr "Przekierowuje do nowego wyrażenia regularnego, wpisanego po prawej stronie."
+
+#: includes/settings/html-settings.php:10
+msgid "Welcome to Ultimate Redirect!"
+msgstr "Witaj we wtyczce „Przekierowania”!"
+
+#: includes/settings/layouts/redirection-rules/rules-explanation.php:43
+msgid ""
+"Redirects to URLs which contain the string you entered on the right instead ​of the string you\n"
+"                    entered on the left"
+msgstr "Przekierowania do adresów URL, które zawierają ciąg znaków wprowadzony po prawej stronie, zamiast ciągu podanego po lewej"
+
+#: includes/settings/layouts/redirection-rules/header.php:47
+msgid "…to:​"
+msgstr "…do:​"
+
+#: includes/settings/layouts/common/header-settings-paragraph.php:26
+msgid "…with your "
+msgstr "…z twoimi "
+
+#: includes/settings/layouts/common/default-settings-modal.php:421
+msgid "Cookie value:​"
+msgstr "Wartość ciasteczka:​"
+
+#: includes/settings/layouts/common/default-settings-modal.php:415
+msgid "Cookie name:​"
+msgstr "Nazwa ciasteczka:​"
+
+#: includes/settings/layouts/common/default-settings-modal.php:407
+msgid "User’s cookie​"
+msgstr "Ciasteczko użytkownika"
+
+#: includes/settings/layouts/common/default-settings-modal.php:363
+msgid "User agent:​"
+msgstr "Identyfikator programu:​"
+
+#: includes/settings/layouts/common/default-settings-modal.php:254
+msgid "WordPress user role​"
+msgstr "Rola użytkownika WordPressa"
+
+#: includes/settings/layouts/common/default-settings-modal.php:176
+msgid "Only redirect if %1$sall%2$s of the following criteria ​"
+msgstr "Przekieruj tylko, jeśli %1$swszystkie%2$s z następujących kryteriów"
+
+#: redirect-redirection.php:129
+msgid "Contain"
+msgstr "Zawiera"
+
+#: includes/settings/layouts/common/default-settings-modal.php:235
+msgid "has"
+msgstr "ma"
+
+#: includes/settings/layouts/common/default-settings-modal.php:208
+msgid "logged in"
+msgstr "zalogowano"
+
+#: includes/settings/layouts/automatic-redirects.php:27
+#: includes/settings/layouts/common/default-settings-modal.php:165
+#: includes/settings/layouts/common/single-redirection.php:18
+#: includes/settings/layouts/common/single-redirection.php:33
+#: includes/settings/layouts/redirection-and-404-logs.php:38
+msgid "Off"
+msgstr "Wyłączono"
+
+#: redirect-redirection.php:308
+msgid "Manage"
+msgstr "Zarządzaj"
+
+#: includes/settings/irrp-settings.php:340
+msgid "Error while loading default settings"
+msgstr "Wystąpił błąd w trakcie wczytywania domyślnych ustawień"
+
+#: includes/settings/irrp-settings.php:333
+msgid "Redirection data loaded"
+msgstr "Wczytano dane przekierowania"
+
+#: includes/settings/irrp-settings.php:300
+msgid "Tab content loaded"
+msgstr "Zawartość karty została załadowana"
+
+#: includes/irrp-helper-ajax.php:490
+msgid "redirect has been edited"
+msgstr "przekierowanie zostało edytowane"
+
+#: includes/irrp-helper-ajax.php:488
+msgid "redirects have been edited"
+msgstr "przekierowania zostały edytowane"
+
+#: includes/irrp-helper-ajax.php:453
+msgid "Current page must be INTEGER > 0!"
+msgstr "Aktualna strona musi być LICZBĄ CAŁKOWITĄ > 0!"
+
+#: includes/irrp-helper-ajax.php:408
+msgid "Redirection deleted successfully"
+msgstr "Przekierowanie zostało pomyślnie usunięte"
+
+#: includes/irrp-helper-ajax.php:375 includes/irrp-helper-ajax.php:451
+msgid "Redirection ID must be INTEGER > 0!"
+msgstr "Identyfikator przekierowania musi być LICZBĄ CAŁKOWITĄ > 0!"
+
+#: includes/irrp-helper-ajax.php:350
+msgid "Redirect settings updated"
+msgstr "Ustawienia przekierowania zostały zaktualizowane"
+
+#: includes/irrp-helper-ajax.php:328
+msgid "Redirect ID must be positive number!"
+msgstr "Identyfikator przekierowania musi być liczbą dodatnią!"
+
+#: includes/irrp-helper-ajax.php:306
+msgid "Redirection settings loaded"
+msgstr "Wczytano ustawienia przekierowania"
+
+#: includes/irrp-helper-ajax.php:280
+msgid "Database error, unknown table column!"
+msgstr "Błąd bazy danych, nieznana kolumna w tabeli!"
+
+#: includes/irrp-helper-ajax.php:278
+msgid "Redirect not found by given ID!"
+msgstr "Nie odnaleziono przekierowania o podanych identyfikatorze!"
+
+#: includes/irrp-helper-ajax.php:272 includes/irrp-helper-ajax.php:323
+#: includes/irrp-helper-ajax.php:369 includes/irrp-helper-ajax.php:403
+msgid "Redirection not exists"
+msgstr "Przekierowanie nie istnieje"
+
+#: includes/irrp-helper-ajax.php:81 includes/irrp-helper-ajax.php:199
+#: includes/settings/irrp-settings.php:229
+msgid "Please ensure your entry is valid!"
+msgstr "Upewnij się, że twój wpis jest poprawny!"
+
+#. Author URI of the plugin
+#: redirect-redirection.php
+msgid "https://inisev.com"
+msgstr "https://inisev.com"
+
+#. Author of the plugin
+#: redirect-redirection.php
+msgid "Inisev"
+msgstr "Inisev"
+
+#. Plugin Name of the plugin
+#: redirect-redirection.php
+msgid "Redirect Redirection"
+msgstr "Redirect Redirection"
+
+#: includes/irrp-helper-ajax.php:857
+msgid "Something went wrong, please ensure the entry is valid!"
+msgstr "Coś poszło nie tak, sprawdź poprawność wpisu!"
+
+#: includes/irrp-helper-ajax.php:836
+msgid "Redirection rule edited successfully"
+msgstr "Reguła przekierowania została pomyślnie zaktualizowana"
+
+#: includes/irrp-helper-ajax.php:609
+msgid "redirect has been deleted"
+msgstr "przekierowanie zostało usunięte"
+
+#: includes/irrp-helper-ajax.php:607
+msgid "redirects have been deleted"
+msgstr "przekierowania zostały usunięte"
+
+#: includes/irrp-helper-ajax.php:714 includes/irrp-helper-ajax.php:764
+msgid "No redirects found"
+msgstr "Nie znaleziono przekierowań"
+
+#: includes/irrp-helper-ajax.php:139
+msgid "Redirection added successfully"
+msgstr "Przekierowanie zostało dodane"
+
+#: includes/irrp-helper-ajax.php:108 includes/irrp-helper-ajax.php:263
+msgid "Redirection edited successfully"
+msgstr "Przekierowanie zostało zaktualizowane"
+
+#: includes/irrp-helper-ajax.php:924
+msgid "Redirection rule added successfully"
+msgstr "Reguła przekierowania została dodana"
+
+#. Description of the plugin
+#: redirect-redirection.php
+msgid "Create specific URL redirections and redirection rules super-easily on a beautiful, user-friendly interface of the Redirect Redirection plugin."
+msgstr "Twórz z łatwością przekierowania adresów URL i reguły przekierowań w przyjaznym dla użytkownika interfejsie wtyczki Redirect Redirection."
+
+#: redirect-redirection.php:302
+msgid "Required minimum version of PHP is : "
+msgstr "Minimalna wymagana wersja PHP to: "
+
+#: redirect-redirection.php:298
+msgid "Required minimum version of WordPress is : "
+msgstr "Minimalna wymagana wersja WordPressa to: "
+
+#: includes/irrp-helper-ajax.php:192 includes/irrp-helper-ajax.php:201
+#: includes/irrp-helper-ajax.php:284 includes/irrp-helper-ajax.php:444
+#: includes/irrp-helper-ajax.php:455 includes/irrp-helper-ajax.php:615
+#: includes/irrp-helper-ajax.php:669 includes/irrp-helper-ajax.php:975
+#: includes/settings/irrp-settings.php:318
+#: includes/settings/irrp-settings.php:368
+#: includes/settings/irrp-settings.php:398
+msgid "Something went wrong, please try again"
+msgstr "Coś poszło nie tak. Proszę spróbować ponownie później"
+
+#: includes/settings/irrp-settings.php:87
+#: includes/settings/irrp-settings.php:88
+#: includes/settings/irrp-settings.php:97
+#: includes/settings/irrp-settings.php:98
+msgid "Redirection"
+msgstr "Przekierowanie"
+
+#: includes/settings/irrp-settings.php:360
+#: includes/settings/irrp-settings.php:394
+msgid "Settings updated"
+msgstr "Ustawienia zostały zaktualizowane"
